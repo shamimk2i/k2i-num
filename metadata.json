@@ -1,0 +1,6 @@
+{
+  "name": "NUM K2I",
+  "description": "Number systems. Zero nonsense.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
